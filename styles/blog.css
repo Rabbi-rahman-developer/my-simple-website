@@ -3,4 +3,11 @@ div{
      background-color: tomato;
      padding: 10px; 
      color: whitesmoke; 
+     margin: 10px; 
+     border-radius: 10px;
+     text-align: justify;
+}
+
+div h3 {
+     text-align: center;
 }
